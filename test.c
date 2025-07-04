@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("workflow");
+	printf("action-exercise2");
 	return 0;
 }
